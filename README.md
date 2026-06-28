@@ -1,44 +1,42 @@
 <p align="center">
-  <img src="assets/github-banner.png" alt="Voynich Studio Banner" width="100%">
+  <img src="assets/github-banner.png" width="100%" alt="Voynich Studio">
 </p>
 
-<h2 align="center">
-Android Developer • Java • Founder of Voynich Studio
-</h2>
+<h2 align="center">Android Developer • Java • Founder of Voynich Studio</h2>
 
 <p align="center">
 Создаю современные Android-приложения с акцентом на приватность пользователей,
-офлайн-работу, высокую производительность и минималистичный дизайн.
+офлайн-работу и практическую пользу.
 </p>
 
 <p align="center">
-
-<a href="https://voynich-studio.github.io">🌐 Сайт</a> •
+<a href="https://voynich-studio.github.io">🌐 Website</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:voynichstudio@mail.ru">✉ Email</a>
-
 </p>
 
 ---
 
-# 👋 Добро пожаловать
+# О себе
 
 Меня зовут **Семён Войнич**.
 
-Я Android Developer и основатель **Voynich Studio** — независимой студии мобильной разработки.
+Я Android-разработчик и основатель **Voynich Studio**.
 
-Моя цель — создавать полезные приложения, которые помогают людям решать реальные повседневные задачи.
+Разрабатываю мобильные приложения, которые помогают людям решать реальные повседневные задачи.
 
-Во всех проектах я придерживаюсь нескольких принципов:
+Основные принципы моей разработки:
 
-- 🔒 Privacy First
-- 📱 Offline First
-- ⚡ Высокая производительность
-- 🎨 Современный минималистичный интерфейс
-- 🚀 Постоянное развитие продукта
+- Privacy First
+- Offline First
+- Минималистичный дизайн
+- Высокая производительность
+- Полностью локальная обработка данных
+- Постоянное развитие продукта
 
 ---
 
-# 🛠️ Технологии
+# Технологии
 
 <p align="center">
 
@@ -64,15 +62,13 @@ Android Developer • Java • Founder of Voynich Studio
 
 ---
 
-# 🚀 Основные проекты
+# Основные проекты
 
 ## 📱 Корзина КБЖУ
 
-Android-приложение для анализа продуктовой корзины, расчёта КБЖУ и планирования питания.
+Приложение для анализа продуктовой корзины, расчёта калорий, белков, жиров и углеводов, а также планирования питания.
 
-**Статус**
-
-🟢 Подготовка к публикации в Google Play.
+**Статус:** Подготовка к публикации в Google Play.
 
 ---
 
@@ -90,7 +86,17 @@ https://voynich-studio.github.io
 
 ---
 
-# 📈 Roadmap
+# Сейчас работаю над
+
+- публикацией приложения **Корзина КБЖУ**;
+- внедрением функций **Smart Basket** и **Smart Menu**;
+- развитием экосистемы **Voynich Studio**;
+- подготовкой новых Android-приложений;
+- совершенствованием портфолио Android-разработчика.
+
+---
+
+# План развития
 
 ### Корзина КБЖУ
 
@@ -99,24 +105,34 @@ https://voynich-studio.github.io
 - ⏳ Smart Basket
 - ⏳ Smart Menu
 
----
+### Voynich Studio
 
-# 🎯 Сейчас работаю над
-
-- публикацией приложения **Корзина КБЖУ**;
-- развитием бренда **Voynich Studio**;
-- расширением портфолио Android-разработчика;
-- созданием новых мобильных приложений.
+- ⏳ Публикация первого приложения в Google Play
+- ⏳ Расширение линейки приложений
+- ⏳ Создание собственного Android UI Kit
+- ⏳ Развитие фирменного сайта
 
 ---
 
-# 📬 Контакты
+# GitHub
 
-🌐 Сайт
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Voynich-Studio&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voynich-Studio&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Контакты
+
+🌐 **Сайт**
 
 https://voynich-studio.github.io
 
-✉ Email
+✉ **Email**
 
 voynichstudio@mail.ru
 
@@ -124,9 +140,8 @@ voynichstudio@mail.ru
 
 <p align="center">
 
-Спасибо за посещение моего профиля!
+<b>Спасибо за посещение моего профиля!</b>
 
-⭐ Буду рад новым знакомствам и интересным проектам.
+Если вам интересны мои проекты или вы хотите обсудить сотрудничество — буду рад общению.
 
 </p>
-```
