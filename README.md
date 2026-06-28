@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Добро пожаловать!
 
-<!--
-**Voynich-Studio/Voynich-Studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Я — Семён Войнич
 
-Here are some ideas to get you started:
+Android Developer • Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Основатель **Voynich Studio**
+
+Разрабатываю мобильные Android-приложения с акцентом на:
+
+- 🔒 приватность пользователей
+- 📱 офлайн-работу
+- ⚡ производительность
+- 🎨 современный минималистичный дизайн
+- 📊 прикладные расчёты и аналитику
+
+---
+
+# 🚀 Основные проекты
+
+## 📱 Корзина КБЖУ
+
+Приложение для анализа продуктовой корзины, расчёта КБЖУ и планирования питания.
+
+Статус:
+> В разработке. Подготовка к публикации в Google Play.
+
+---
+
+## 📱 Калькулятор выслуги лет
+
+Приложение для автоматизации расчёта выслуги лет.
+
+---
+
+## 🌐 Voynich Studio
+
+Независимая студия разработки мобильных приложений.
+
+https://voynich-studio.github.io/
+
+---
+
+# 🛠 Используемые технологии
+
+- Java
+- Android SDK
+- Gradle
+- Material Design
+- SharedPreferences
+- Git
+- GitHub
+
+---
+
+# 📌 Сейчас работаю над
+
+- Корзина КБЖУ 2.0
+- Smart Basket
+- Smart Menu
+- публикация приложений в Google Play
+
+---
+
+# 📬 Контакты
+
+🌐 Сайт
+
+https://voynich-studio.github.io/
+
+GitHub
+
+https://github.com/Voynich-Studio
+
+---
+
+Спасибо за посещение моего профиля!
